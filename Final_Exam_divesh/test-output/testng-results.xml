@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-31T12:39:14 EDT" name="Default suite" finished-at="2022-03-31T12:39:58 EDT" duration-ms="44501">
+    <groups>
+    </groups>
+    <test started-at="2022-03-31T12:39:14 EDT" name="Default test" finished-at="2022-03-31T12:39:58 EDT" duration-ms="44501">
+      <class name="Final.Login">
+        <test-method is-config="true" signature="hello()[pri:0, instance:Final.Login@7880cdf3]" started-at="2022-03-31T12:39:14 EDT" name="hello" finished-at="2022-03-31T12:39:18 EDT" duration-ms="4025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hello -->
+        <test-method signature="Login()[pri:0, instance:Final.Login@7880cdf3]" started-at="2022-03-31T12:39:18 EDT" name="Login" finished-at="2022-03-31T12:39:20 EDT" duration-ms="2596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="dropdown()[pri:1, instance:Final.Login@7880cdf3]" started-at="2022-03-31T12:39:20 EDT" name="dropdown" finished-at="2022-03-31T12:39:23 EDT" duration-ms="2086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdown -->
+        <test-method signature="list()[pri:2, instance:Final.Login@7880cdf3]" started-at="2022-03-31T12:39:23 EDT" name="list" finished-at="2022-03-31T12:39:37 EDT" duration-ms="14590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- list -->
+        <test-method signature="cart()[pri:3, instance:Final.Login@7880cdf3]" started-at="2022-03-31T12:39:37 EDT" name="cart" finished-at="2022-03-31T12:39:39 EDT" duration-ms="2101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart -->
+        <test-method signature="remove()[pri:4, instance:Final.Login@7880cdf3]" started-at="2022-03-31T12:39:39 EDT" name="remove" finished-at="2022-03-31T12:39:43 EDT" duration-ms="4114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remove -->
+        <test-method signature="shopping()[pri:5, instance:Final.Login@7880cdf3]" started-at="2022-03-31T12:39:43 EDT" name="shopping" finished-at="2022-03-31T12:39:48 EDT" duration-ms="4186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopping -->
+        <test-method signature="checking()[pri:6, instance:Final.Login@7880cdf3]" started-at="2022-03-31T12:39:48 EDT" name="checking" finished-at="2022-03-31T12:39:50 EDT" duration-ms="2093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checking -->
+        <test-method signature="Input()[pri:7, instance:Final.Login@7880cdf3]" started-at="2022-03-31T12:39:50 EDT" name="Input" finished-at="2022-03-31T12:39:52 EDT" duration-ms="2338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Input -->
+        <test-method signature="buttoncontinue()[pri:8, instance:Final.Login@7880cdf3]" started-at="2022-03-31T12:39:52 EDT" name="buttoncontinue" finished-at="2022-03-31T12:39:54 EDT" duration-ms="2101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buttoncontinue -->
+        <test-method signature="end()[pri:9, instance:Final.Login@7880cdf3]" started-at="2022-03-31T12:39:54 EDT" name="end" finished-at="2022-03-31T12:39:56 EDT" duration-ms="2116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method signature="backtohomepage()[pri:10, instance:Final.Login@7880cdf3]" started-at="2022-03-31T12:39:56 EDT" name="backtohomepage" finished-at="2022-03-31T12:39:58 EDT" duration-ms="2118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backtohomepage -->
+      </class> <!-- Final.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
